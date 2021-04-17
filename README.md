@@ -1,2 +1,2 @@
 # eureka
-A basic eureka setup
+A Registry service using Netflix Eureka
